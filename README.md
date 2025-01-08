@@ -1,7 +1,7 @@
 # Threads-Assignment
 Daniel Lopez-Morales
 Software Development 1
-CEN 3420C -31950
+CEN 3420C -24205
 
 The purpose of this coding assignment was to understand threads in Java.
 We were required to create a project that shows multiple threads running at the same time
